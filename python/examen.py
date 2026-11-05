@@ -1,0 +1,11 @@
+a = input("¿Qué hora es ?")
+print ("Son las",a)
+b = input("¿Dejaras de ser uma rata? ")
+print ("obvio que",b)
+c = input("¿Me das un churro? ")
+print ("tengo cara de millonario ? obvio que ",c)
+d = input(" ¿Coómo dice los papois ? ")
+print ("dicen",d)
+e = input(" ¿Cusndo me das mis 6 soles? ")
+print ("te soy sincero ,yo ",e)
+
